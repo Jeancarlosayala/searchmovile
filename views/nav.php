@@ -14,13 +14,49 @@
 <body>
 
     <nav class="navbar navbar-dark bg-dark justify-content-between">
-        <a class="navbar-brand" href="index.php">Logo</a>
+        <a class="navbar-brand" href="../index.php">Logo</a>
 
-        <form class="form-inline" action="views/buscador.php" method="POST">
+        <form class="form-inline" action="buscador.php" method="POST">
             <input class="form-control mr-sm-2" type="text" name="buscar" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
     </nav>
+
+<div class="row mx-auto mt-4" id="buscador">
+    <?php
+        include '../db/read.php';
+        
+        while($row = mysqli_fetch_array($sql_query)){?>
+        <div class="col-12 col-md-3">
+            <a href="#" data-toggle="modal" data-target="<?= $row['data-target']?>" class="card-link">
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <h4><?= $row['nombre']?></h4>
+                    </div>
+                    <div class="card-body">
+                        <img src="<?= $row['img']?>" class="card-img-top" alt="img"></img>
+                        <hr>
+                        <p>$<?= $row['precio']?></p>
+                        <p>Ver mas...</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+
+    <?php }
+        ?>
+    </div>
+
+    <?php include '../modals/samsung.php'; ?>
+
+    <?php include '../modals/huawei.php'; ?>
+
+    <?php include '../modals/xiaomi.php'; ?>
+
+
+
+
+
     <script src="js/buscador.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">

@@ -15,8 +15,8 @@
                     <div class="card-body">
                         <img src="img/samsunga50.jpg" alt="Samsung" class="card-img-top">
                         <hr>
-                        <p>-Pantalla: 6.4 pulgadas</p>
-                        <P>-Resolucion 2,340 x 1080 pixeles</P>
+                        <li>-Pantalla: 6.4 pulgadas</li>
+                        <li>-Resolucion 2,340 x 1080 pixeles</li>
                         <p>Ver mas...</p>
                     </div>
                 </div>
@@ -34,67 +34,21 @@
                         <div class="modal-body">
                             <img src="img/samsunga50.jpg" alt="" class="card-img-top">
                             <hr>
-                            <table class="table-responsive">
-                                <thead>
-                                    <tr>
-                                        <th></th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <th scope="row">1</th>
-                                        <td>Pantalla: 6.4 pulgadas</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">2</th>
-                                        <td>Resolucion: 2,340 x 1,080 pixeles</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">3</th>
-                                        <td>Procesador: Exynos 9610</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">4</th>
-                                        <td>RAM: 4GB, 6GB</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">5</th>
-                                        <td>Almacenamiento: 64GB, 128GB</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">6</th>
-                                        <td>Ranura microSD: sí</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">7</th>
-                                        <td>Batería: 4,000mAh</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">8</th>
-                                        <td>Lector de huellas: Sí, en pantalla</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">9</th>
-                                        <td>Cámaras trasera: 25MP + 8MP + 5MP</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">10</th>
-                                        <td>Cámara frontal: 25 megapixeles</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">11</th>
-                                        <td>NFC: Sí</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">12</th>
-                                        <td>Samsung Pay: Sí</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">13</th>
-                                        <td>Tamaño: 158.5x74.7x7.7mm</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            <ul>
+                                <li>Pantalla: 6.4 pulgadas</li>
+                                <li>Resolucion: 2,340 x 1,080 pixeles</li>
+                                <li>Procesador: Exynos 9610</li>
+                                <li>RAM: 4GB, 6GB</li>
+                                <li>Almacenamiento: 64GB, 128GB</li>
+                                <li>Ranura microSD: sí</li>
+                                <li>Batería: 4,000mAh</li>
+                                <li>Lector de huellas: Sí, en pantalla</li>
+                                <li>Cámaras trasera: 25MP + 8MP + 5MP</li>
+                                <li>Cámara frontal: 25 megapixeles</li>
+                                <li>NFC: Sí</li>
+                                <li>Samsung Pay: Sí</li>
+                                <li>Tamaño: 158.5x74.7x7.7mm</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -110,8 +64,8 @@
                     <div class="card-body">
                         <img src="img/huaweip30.jpg" alt="HuaweiP30" class="card-img-top">
                         <hr>
-                        <p>-Pantalla: 6.1 pulgadas (OLED plana)</p>
-                        <p>-Resolucion: 2,340x1,080 pixeles</p>
+                        <li>-Pantalla: 6.1 pulgadas</li>
+                        <li>-Resolucion: 2,340x1,080 pixeles</li>
                         <P>Ver mas...</P>
                     </div>
                 </div>
@@ -129,63 +83,20 @@
                         <div class="modal-body">
                             <img src="img/huaweip30.jpg" alt="HuaweiP30" class="card-img-top">
                             <hr>
-                            <table class="table-responsive">
-                                <thead>
-                                    <tr>
-                                        <th></th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <th scope="row">1</th>
-                                        <td>Pantalla: 6.1 pulgadas (OLED plana)</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">2</th>
-                                        <td>Resolucion: 2,340 x 1,080 pixeles</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">3</th>
-                                        <td>Procesador: 2.6GHz Kirin 980 (ocho núcleos)</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">4</th>
-                                        <td>RAM: 6GB</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">5</th>
-                                        <td>Almacenamiento: 128GB</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">6</th>
-                                        <td>Cámara principal: 40MP + 16MP + 8MP</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">7</th>
-                                        <td>Cámara frontal: 32 megapixeles</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">8</th>
-                                        <td>Batería: 3,650mAh</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">9</th>
-                                        <td>Conectividad: 4G/LTE, Bluetooth, GPS, NFC</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">10</th>
-                                        <td>Lector de huellas: Sí, óptico en pantalla en la parte baja</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">11</th>
-                                        <td>onector para audífonos: Sí, tradicional de 3.5 mm.</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">12</th>
-                                        <td>Reconocimiento del rostro: Sí, 2D</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            <ul>
+                                <li>Pantalla: 6.1 pulgadas (OLED plana)</li>
+                                <li>Resolucion: 2,340 x 1,080 pixeles</li>
+                                <li>Procesador: 2.6GHz Kirin 980 (ocho núcleos)</li>
+                                <li>Almacenamiento: 128GB</li>
+                                <li>RAM: 6GB</li>
+                                <li>Cámara principal: 40MP + 16MP + 8MP</li>
+                                <li>Cámara frontal: 32 megapixeles</li>
+                                <li>Batería: 3,650mAh</li>
+                                <li>Conectividad: 4G/LTE, Bluetooth, GPS, NFC</li>
+                                <li>Lector de huellas: Sí, óptico en pantalla en la parte baja</li>
+                                <li>Conector para audífonos: Sí, tradicional de 3.5 mm</li>
+                                <li>Reconocimiento del rostro: Sí, 2D</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -201,8 +112,8 @@
                     <div class="card-body">
                         <img src="img/xiaomiremidnote9.jpg" alt="XaomiremidnoteS9" class="card-img-top">
                         <hr>
-                        <p>-Pantalla: 6.67</p>
-                        <p>-Resolucion: 1080 x 2400 pixels</p>
+                        <li>-Pantalla: 6.67</li>
+                        <li>-Resolucion: 1080 x 2400 pixels</li>
                         <p>Ver mas...</p>
                     </div>
                 </div>
@@ -220,51 +131,17 @@
                         <div class="modal-body">
                             <img src="img/xiaomiremidnote9.jpg" alt="xiaomiremidnote9" class="card-img-top">
                             <hr>
-                            <table>
-                                <thead>
-                                    <tr>
-                                        <th></th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <th scope="row">1</th>
-                                        <td>Pantalla: 6.67</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">2</th>
-                                        <td>Resolucion: 1080 x 2400 pixels</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">3</th>
-                                        <td>Procesador: Snapdragon 720G 2.3GHz</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">4</th>
-                                        <td>RAM: 4GB/6GB</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">5</th>
-                                        <td>Expansión: microSD</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">6</th>
-                                        <td>Cámara:64MP + 8MP + 2MP + 2MP</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">7</th>
-                                        <td>Batería: 5020 mAh</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">8</th>
-                                        <td>OS: Android 10</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">9</th>
-                                        <td>Perfil: 8.8 mm</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            <ul>
+                                <li>Pantalla: 6.67</li>
+                                <li>Resolucion: 1080 x 2400 pixels</li>
+                                <li>Procesador: Snapdragon 720G 2.3GHz</li>
+                                <li>RAM: 4GB/6GB</li>
+                                <li>Expansión: microSD</li>
+                                <li>Cámara:64MP + 8MP + 2MP + 2MP</li>
+                                <li>Batería: 5020 mAh</li>
+                                <li>OS: Android 10</li>
+                                <li>Perfil: 8.8 mm</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -280,8 +157,8 @@
                     <div class="card-body">
                         <img src="img/iphone11.jpg" alt="Iphone11" class="card-img-top">
                         <hr>
-                        <p>-Pantalla: 6.1 pulgadas</p>
-                        <p>-Resolucion: 1,792 x 828 pixeles</p>
+                        <li>-Pantalla: 6.1 pulgadas</li>
+                        <li>-Resolucion: 1,792 x 828 pixeles</li>
                         <p>Ver mas...</p>
                     </div>
                 </div>
@@ -299,51 +176,17 @@
                         <div class="modal-body">
                             <img src="img/iphone11.jpg" alt="iphone11" class="card-img-top">
                             <hr>
-                            <table>
-                                <thead>
-                                    <tr>
-                                        <th></th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <th scope="row">1</th>
-                                        <td>Pantalla: 6.1 pulgadas</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">2</th>
-                                        <td>Resolucion: 1,792 x 828 pixeles</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">3</th>
-                                        <td>Procesador: Apple A13 Bionic</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">4</th>
-                                        <td>RAM: 4GB (por confirmar)</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">5</th>
-                                        <td>Sistema: iOS 13</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">6</th>
-                                        <td>Almacenamiento: 64GB, 128GB, 256GB</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">7</th>
-                                        <td>Doble, 12MP con estabilización de imagen óptica + 12MP</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">8</th>
-                                        <td>Bateria: 3,110mAh</td>
-                                    </tr>
-                                    <tr>
-                                        <th scope="row">9</th>
-                                        <td>Tamaño: 150.9 x 75.7x8.3mm</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            <ul>
+                                <li>Pantalla: 6.1 pulgadas</li>
+                                <li>Resolucion: 1,792 x 828 pixeles</li>
+                                <li>Procesador: Apple A13 Bionic</li>
+                                <li>RAM: 4GB (por confirmar)</li>
+                                <li>Sistema: iOS 13</li>
+                                <li>Almacenamiento: 64GB, 128GB, 256GB</li>
+                                <li>Doble, 12MP con estabilización de imagen óptica + 12MP</li>
+                                <li>Bateria: 3,110mAh</li>
+                                <li>Tamaño: 150.9 x 75.7x8.3mm</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
