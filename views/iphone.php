@@ -173,3 +173,11 @@
         </div>
     </div>
 </div>
+
+<nav class="navbar navbar-expand navbar-dark bg-dark mt-3">
+    <a href="" class="navbar-brand">
+        <h4>Xiaomi</h4>
+    </a>
+</nav>
+
+<?php include 'xiaomi.php'; ?>

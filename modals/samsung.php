@@ -60,6 +60,12 @@
                     <li>Samsung Pay: Sí</li>
                     <li>Tamaño: 158.5x74.7x7.7mm</li>
                 </ul>
+
+                <hr>
+                
+                <a href="">
+                    <img class="card-img-top rounded mx-auto d-block" src="../img/mercadolibre.png" alt="" style="width: 40%">
+                </a>
             </div>
         </div>
     </div>
@@ -139,12 +145,10 @@
                 </button>
             </div>
             <div class="modal-body">
-                <img class="card-img-top"
-                    src=""
-                    alt="">
+                <img class="card-img-top" src="" alt="">
                 <hr>
                 <ul>
-                    
+
                 </ul>
             </div>
         </div>

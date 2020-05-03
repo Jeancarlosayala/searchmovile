@@ -107,7 +107,7 @@
             <a href="#" data-toggle="modal" data-target="#XiaomiredminoteS9" class="card-link">
                 <div class="card">
                     <div class="card-header">
-                        <h4>Xiaomi Remid Note S9</h4>
+                        <h4>Xiaomi Redmi Note 9S</h4>
                     </div>
                     <div class="card-body">
                         <img src="img/xiaomiremidnote9.jpg" alt="XaomiremidnoteS9" class="card-img-top">
@@ -123,7 +123,7 @@
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5>Xiaomi Redmid Note S9</h5>
+                            <h5>Xiaomi Redmi Note 9s</h5>
                             <button class="close" type="button" data-dismiss="modal" arial-label="close">
                                 <span arial-hidden="true">&times;</span>
                             </button>
@@ -200,6 +200,4 @@
         <h4>Samsung</h4>
     </a>
 </nav>
-<?php
-        include 'samsung.php'
-    ?>
+<?php include 'samsung.php'; ?>
